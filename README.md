@@ -18,17 +18,17 @@ Intel Macs (2019-2020 Touchbar Macbook Pros)
 The Free Section Includes the Following:
 
 M-Series Macs:
-Firefox Developer Edition
-WireGuard
-Shottr
-Later
-Dropover
-Hidden Bar
-Alt Tab
-Monitor Control
-OnyX
-Pure Paste
-Numi
+Firefox Developer Edition,
+WireGuard,
+Shottr,
+Later,
+Dropover,
+Hidden Bar,
+Alt Tab,
+Monitor Control,
+OnyX,
+Pure Paste,
+Numi,
 Rectangle
 
 
