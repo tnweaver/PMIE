@@ -31,7 +31,20 @@ Pure Paste,
 Numi,
 Rectangle
 
-
+Intel Series Macbook Pro (with Touchbar):
+Firefox Developer Edition,
+WireGuard,
+Shottr,
+Later,
+Dropover,
+Hidden Bar,
+Alt Tab,
+Monitor Control,
+OnyX,
+Pure Paste,
+Numi,
+Rectangle,
+Better Touch Tool
 
 
 Thanks, more to come soon! 
