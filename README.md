@@ -4,6 +4,8 @@
 
 This is the List/Collection of Perfect Mac Applications to install when getting a Mac OS device. (Free/Paid Collections)
 
+In the future add a development profile for the apps that I install on a work development machine.  
+
 Currently the MAC OS that it will support is: MACOS 15.2 Sequoia / Latest
 
 
@@ -44,7 +46,7 @@ OnyX,
 Pure Paste,
 Numi,
 Rectangle,
-Better Touch Tool
+Better Touch Tool (free/paid)
 
 
 Thanks, more to come soon! 
