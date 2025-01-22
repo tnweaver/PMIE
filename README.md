@@ -60,16 +60,19 @@ Better Touch Tool (free/paid)
 
 # Script to speed up the dock speed:
 
+```bash
 defaults write com.apple.dock autohide-delay -int 0
 defaults write com.apple.dock autohide-time-modifier -float 0.45
 killall Dock
+```
 
 # Script to return the dock speed back to defult:
 
+```bash
 defaults delete com.apple.dock autohide-delay
 defaults delete com.apple.dock autohide-time-modifier
 killall Dock
-
+```
 
 
 # Thanks, more to come soon! 
