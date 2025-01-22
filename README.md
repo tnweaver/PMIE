@@ -1,5 +1,5 @@
 # PMIE
- Perfect Mac Install Everytime!
+# Perfect Mac Install Everytime!
 
 
 This is the List/Collection of Perfect Mac Applications to install when getting a Mac OS device. (Free/Paid Collections)
