@@ -19,7 +19,7 @@ Intel Macs (2019-2020 Touchbar Macbook Pros)
 
 # The Free Section Includes the Following:
 
-# M-Series Macs:
+## M-Series Macs:
 - Firefox Developer Edition
 - WireGuard
 - Shottr
@@ -33,7 +33,7 @@ Intel Macs (2019-2020 Touchbar Macbook Pros)
 - Numi
 - Rectangle
 
-# Intel Series Macbook Pro (with Touchbar):
+## Intel Series Macbook Pro (with Touchbar):
 - Firefox Developer Edition
 - WireGuard
 - Shottr
@@ -58,7 +58,7 @@ Intel Macs (2019-2020 Touchbar Macbook Pros)
 
 # Free Useful Terminal Scripts:
 
-# Script to speed up the dock speed:
+## Script to speed up the dock speed:
 
 ```bash
 defaults write com.apple.dock autohide-delay -int 0
@@ -66,7 +66,7 @@ defaults write com.apple.dock autohide-time-modifier -float 0.45
 killall Dock
 ```
 
-# Script to return the dock speed back to defult:
+## Script to return the dock speed back to defult:
 
 ```bash
 defaults delete com.apple.dock autohide-delay
